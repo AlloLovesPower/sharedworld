@@ -7,6 +7,61 @@
 //		"innerColor": [255,255,255]
 	},
 
+
+	{
+		//nations
+		"name": "Canniballerz",
+		"leaderName": "Crouton",
+		"adjective": ["ballerz"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Crouton",
+
+		"startIntroPart1": "Crouton accidentally became chief of teh Canniballerz, a postapocalyptic cannibal cult gang.",
+		"startIntroPart2": "How awesome can you be?",
+
+		"declaringWar": "We need more delicious humans!",
+		"attacked": "Good thanks.",
+		"defeated": "meow",
+		"introduction": "Hello. want some delicious human meat or maybe see our gnarly vehicles?",
+
+		"neutralHello": "Hi.",
+		"hateHello": "wut?",
+
+		"tradeRequest": "let's trade.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Taoism",
+		"uniqueName": "Canniballerism",
+		"uniques": [
+           "[+3 Production, +1 Gold] in cities on [Desert] tiles",
+           "[+20]% Yield from pillaging tiles",
+           "[+40]% Health from pillaging tiles",
+           "Heals [3] damage if it kills a unit",
+           "[30] units cost no maintenance<when at war>"
+            ],
+		"cities": ["Wogjeebra","Meowburg","Glargdonger","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		//nations
 		"name": "Babylon",
