@@ -14,7 +14,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency",
-        "uniques": "[+3 Food]<when at war>"
+        "uniques": ["[+3 Food] [in this city]<when at war>"],
 	},
     
     
