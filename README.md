@@ -15,7 +15,7 @@ Now our nation needs a unit and a building.  So go to Units.json and copypaste a
 
 ![1000315293](https://github.com/user-attachments/assets/f39e813c-d1c7-4ddc-8b33-b899e126b9df)
 
-Important to things are to say what it replaces and which empire it is unique to.  Then grab more uniques from dat site and unit done.  Now go to Buildings.json and do the same thing.
+Important is to say what it replaces and which empire it is unique to.  Then grab more uniques from dat site and unit done.  Now go to Buildings.json and do the same thing.
 
 ![1000315294](https://github.com/user-attachments/assets/2cdc17a1-d76b-4e2a-8605-f8ff7413bd40)
 
