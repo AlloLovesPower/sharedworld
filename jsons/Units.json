@@ -3,6 +3,39 @@
 	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
 
 	/* Ancient Era */
+    
+    
+    	{
+		"name": "Gnarlodocerous Car",
+        "replaces": "Chariot Archer",
+        "uniqueTo":"Canniballerz",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": [
+        "No defensive terrain bonus",
+        "Rough terrain penalty",
+        "Never appears as a Barbarian unit",
+        "May Paradrop to [all] tiles up to [5] tiles away",
+        "No movement cost to pillage",
+        ],
+		"attackSound": "arrow"
+	},
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 	{
 		"name": "Worker",
 		"unitType": "Civilian",
